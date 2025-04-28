@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @valentinafalco
-- 👀 I’m interested in learning to program and to be the best in what I do 
-- 🌱 I’m currently learning to program and to improve my english. Also I´m learning some new languages, they are French and Chinese
-- 💞️ I’m looking to collaborate on ...(haven´t decided yet)
-- 📫 How to reach me. Via email (valentinaffalco@gmail.com) 
+Estudiante de Ingeniería en Sistemas en la UTN FRLP, becaria de investigación en el GIDAS y analista de datos en la Dirección de Datos de la Provincia de Buenos Aires. Tengo experiencia en desarrollo de sistemas, análisis de datos con SQL y Power BI, y programación en Python. Me interesa la tecnología aplicada a la educación, la sostenibilidad y la inteligencia de negocios. Busco seguir creciendo profesionalmente, aportando soluciones creativas y eficientes.
 
 <!---
 valentinafalco/valentinafalco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
